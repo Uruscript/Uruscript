@@ -29,8 +29,9 @@ let Uruscript = {
     }
     e-mail: "uruscript@gmail.com"
 }
+
 ~~~
-a litle history about me...
+A litle history about me...
 ~~~
 
 <!--
