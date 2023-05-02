@@ -1,5 +1,34 @@
 ### Hi my name is Uruscript.
 <pre>
+let Uruscript = {
+    realName: 'Julián González',
+    sex: 'male',
+    age: 30,
+    birth: 10-09-1992,
+    nationality: 'Colombian',
+    skills: {
+        hard:{
+            learned: [JavaScript, NodeJS, React, Reux, CSS, HTML, Postgres,
+                Markdown, Arduino, Celtx, AfteEffects, Blender, Photoshop,
+                UnrealEngine],
+            learning: [Python, Angular, Ruby, PremierPRO, Unity]
+        }
+        soft:{
+            innate: [Leading, Curious, Autonomous, Resilient, Creative,
+                enthusiastic, committed, focused, analytical],
+            learned: [Teamwork, Entrepreneur, Ambitious of knowledge]
+        }
+        lenguajes:{
+            basic: [Russian, Italian, Japanese],
+            medium-basic: [],
+            medium: [French, Portuguese],
+            medium-advanced: [English],
+            native: [Spanish],
+            others: [Quenya, Sildarin, Klingon, Valirian]
+        }
+    }
+    e-mail: "uruscript@gmail.com"
+}
 ~~~
 ~~~
 
